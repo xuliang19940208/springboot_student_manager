@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * @Author xuliang
  * @Date 2019-9-26
- * 学生的Controller
+ * 学生的Controller2222222
  */
 @Controller
 @RequestMapping("/stu")
